@@ -1,0 +1,26 @@
+{
+  "name": "@dmitry-n-medvedev/freshports",
+  "version": "0.0.0",
+  "description": "freshports",
+  "type": "module",
+  "packageManager": "pnpm@8.15.4",
+  "engines": {
+    "node": ">=21.4.0",
+    "pnpm": "8.15.4"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "Dmitry N. Medvedev <dmitry.medvedev@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmitry-n-medvedev/freshports.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmitry-n-medvedev/freshports/issues"
+  },
+  "homepage": "https://github.com/dmitry-n-medvedev/freshports#readme"
+}
